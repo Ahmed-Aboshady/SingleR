@@ -1,0 +1,264 @@
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\ChatAppWithDBExample.dll.config
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\ChatAppWithDBExample.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\ChatAppWithDBExample.pdb
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csc.exe
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csc.exe.config
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csc.rsp
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csi.exe
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csi.exe.config
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csi.rsp
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.AppContext.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Console.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.Compression.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Claims.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.ValueTuple.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\vbc.exe
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\vbc.exe.config
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\vbc.rsp
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\VBCSCompiler.exe
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Helpers.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Mvc.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Razor.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.Razor.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Razor.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.Razor.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Helpers.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Mvc.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.csprojAssemblyReference.cache
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.csproj.CoreCompileInputs.cache
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.csproj.CopyComplete
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.pdb
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\EntityFramework.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\EntityFramework.SqlServer.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\EntityFramework.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\EntityFramework.SqlServer.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.Security.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Newtonsoft.Json.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Owin.dll
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.Security.xml
+C:\Users\AhmEd ElsaKa\Documents\Visual Studio 2017\Projects\ChatAppWithDBExample\ChatAppWithDBExample\bin\Newtonsoft.Json.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\ChatAppWithDBExample.dll.config
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\ChatAppWithDBExample.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\ChatAppWithDBExample.pdb
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csc.exe
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csc.exe.config
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csc.rsp
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csi.exe
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csi.exe.config
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csi.rsp
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.Managed.Core.targets
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.AppContext.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Collections.Immutable.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Console.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.Compression.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.FileSystem.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.Pipes.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Reflection.Metadata.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.AccessControl.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Claims.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Principal.Windows.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.ValueTuple.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Xml.XmlDocument.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Xml.XPath.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\vbc.exe
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\vbc.exe.config
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\vbc.rsp
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\VBCSCompiler.exe
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\VBCSCompiler.exe.config
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\EntityFramework.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\EntityFramework.SqlServer.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.Security.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Web.Infrastructure.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Newtonsoft.Json.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Owin.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Helpers.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Mvc.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Razor.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.Deployment.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.Razor.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\EntityFramework.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\EntityFramework.SqlServer.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.Core.pdb
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.Security.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Newtonsoft.Json.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Razor.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.Deployment.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.Razor.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Helpers.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Mvc.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.csprojAssemblyReference.cache
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.csproj.CoreCompileInputs.cache
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.csproj.CopyComplete
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.dll
+F:\COURSES\0MY COURCE\Exmple - Real Time Chat App\Project\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.pdb
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\ChatAppWithDBExample.dll.config
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\ChatAppWithDBExample.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\ChatAppWithDBExample.pdb
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csc.exe
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csc.exe.config
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csc.rsp
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csi.exe
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csi.exe.config
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\csi.rsp
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.Managed.Core.targets
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.AppContext.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Collections.Immutable.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Console.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.Compression.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.FileSystem.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.IO.Pipes.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Reflection.Metadata.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.AccessControl.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Claims.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Security.Principal.Windows.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.ValueTuple.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Xml.XmlDocument.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Xml.XPath.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\vbc.exe
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\vbc.exe.config
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\vbc.rsp
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\VBCSCompiler.exe
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\roslyn\VBCSCompiler.exe.config
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\EntityFramework.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\EntityFramework.SqlServer.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.Security.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Web.Infrastructure.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Newtonsoft.Json.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Owin.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Helpers.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Mvc.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Razor.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.Deployment.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.Razor.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\EntityFramework.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\EntityFramework.SqlServer.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.Core.pdb
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.Owin.Security.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Newtonsoft.Json.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Razor.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.Deployment.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Webpages.Razor.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Helpers.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\System.Web.Mvc.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.csprojAssemblyReference.cache
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.csproj.CoreCompileInputs.cache
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.csproj.CopyComplete
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.dll
+F:\2-oop\SignalR\ChatAppWithDBExample\ChatAppWithDBExample\ChatAppWithDBExample\obj\Debug\ChatAppWithDBExample.pdb

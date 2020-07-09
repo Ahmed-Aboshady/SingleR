@@ -1,0 +1,87 @@
+﻿@model ChatBoxModel
+
+
+<div class="chat-box" id="DVChatBox-@Model.ToUser.UserId">
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="chat-box-header">
+                <b>@Model.ToUser.UserName</b>
+                <b><i class="fa fa-times" aria-hidden="true" onclick="CloseChatBox(this)"></i></b>
+                @Html.HiddenFor(m => m.ToUser.UserId, new { @id = "ToUserId" })
+            </div>
+        </div>
+        <div class="col-xs-12">
+            <div class="messages-list">
+                @foreach (var message in Model.Messages)
+                {
+                    <div class="dvmsg dvmsg-@message.Class"><span class="msg">@message.Message</span></div>
+                }
+            </div>
+        </div>
+        <div class="col-xs-12 chat-box-input">
+            <textarea class="message-input form-control" onkeyup="sendMessage(this, event);"></textarea>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    $(function () {
+        $('.messages-list').scroll(function () {
+            let element = $(this);
+            let toUserId = $(element).closest('.chat-box').find('#ToUserId').val();
+            let skip = $('.messages-list .dvmsg').length;
+            if ($(element).scrollTop() === 0) {
+                $.ajax({
+                    url: '/Home/LazyLoadMssages',
+                    type: 'POST',
+                    datatype: 'JSON',
+                    contentType: 'application/json;charset=utf-8;',
+                    data: JSON.stringify({ toUserId: toUserId, skip: skip }),
+                    success: function (res) {
+
+                        let prev_height = 0;
+                        $('.messages-list .dvmsg').each(function () { prev_height += $(this).outerHeight(); });
+
+                        for (var i = 0; i < res.length; i++) {
+                            $(element).prepend('<div class="dvmsg dvmsg-' + res[i].Class + '"><span class="msg">' + res[i].Message + '</span></div>');
+                        }
+
+                        let whole_height = 0;
+                        $('.messages-list .dvmsg').each(function () { whole_height += $(this).outerHeight(); });
+
+                        $('.messages-list').scrollTop(whole_height - prev_height);
+                    }
+                })
+            }
+        });
+    });
+
+
+    function CloseChatBox(element) {
+        $(element).closest('.chat-box').remove();
+    }
+
+    function sendMessage(element, e) {
+        let message = $(element).val().trim();
+        let toUserId = $(element).closest('.chat-box').find('#ToUserId').val();
+        if (!message) { $(element).val(''); return; }
+        if (e.which === 13) {
+            $.ajax({
+                url: '/Home/SendMessage',
+                type: 'POST',
+                datatype: 'JSON',
+                contentType: 'application/json;charset=utf-8;',
+                data: JSON.stringify({ toUserId: toUserId, message: message }),
+                async: true,
+                success: function (res) {
+                    if (res === true) {
+                        $(element).closest('#DVChatBox-' + toUserId).find('.messages-list').append('<div class="dvmsg dvmsg-from"><span class="msg">' + message + '</span></div>');
+                        $(element).closest('#DVChatBox-' + toUserId).find('.messages-list').scrollTop(999999999999);
+                        $(element).val('');
+                    }
+                }
+            });
+        }
+    }
+</script>
